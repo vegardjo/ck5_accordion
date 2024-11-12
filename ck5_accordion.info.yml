@@ -1,0 +1,5 @@
+name: 'Ck5 accordion open/closed'
+type: module
+description: 'Adds an accordion that can be open or closed'
+package: Custom
+core_version_requirement: ^10 || ^11

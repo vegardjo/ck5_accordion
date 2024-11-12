@@ -1,0 +1,5 @@
+ckPlugins:
+  js:
+    js/build/plugins.js: { preprocess: false, minified: true }
+  dependencies:
+    - core/ckeditor5
