@@ -1,6 +1,6 @@
 ## INTRODUCTION
 
-The Ck5 accordion open/closed module is a module that adds an accordion that
+The Ck5 accordion open/closed module is a Drupal 10 / 11 module that adds an accordion that
 can be open or closed, which is controlled via a setting.
 
 Made as an update of an internal module. You are likely much better off using the
